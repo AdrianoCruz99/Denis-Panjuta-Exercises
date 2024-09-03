@@ -1,0 +1,14 @@
+D:\ExercisesDenisPanjuta\DP106\DP106\bin\Debug\net8.0\DP106.exe
+D:\ExercisesDenisPanjuta\DP106\DP106\bin\Debug\net8.0\DP106.deps.json
+D:\ExercisesDenisPanjuta\DP106\DP106\bin\Debug\net8.0\DP106.runtimeconfig.json
+D:\ExercisesDenisPanjuta\DP106\DP106\bin\Debug\net8.0\DP106.dll
+D:\ExercisesDenisPanjuta\DP106\DP106\bin\Debug\net8.0\DP106.pdb
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.AssemblyInfoInputs.cache
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.AssemblyInfo.cs
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.csproj.CoreCompileInputs.cache
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.dll
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\refint\DP106.dll
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.pdb
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.genruntimeconfig.cache
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\ref\DP106.dll
