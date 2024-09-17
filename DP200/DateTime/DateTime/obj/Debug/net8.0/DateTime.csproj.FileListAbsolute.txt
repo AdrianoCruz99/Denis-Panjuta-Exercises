@@ -1,0 +1,15 @@
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\bin\Debug\net8.0\DateTime.exe
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\bin\Debug\net8.0\DateTime.deps.json
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\bin\Debug\net8.0\DateTime.dll
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\bin\Debug\net8.0\DateTime.pdb
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.sourcelink.json
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.dll
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.pdb
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+D:\ExercisesDenisPanjuta\DP200\DateTime\DateTime\obj\Debug\net8.0\ref\DateTime.dll

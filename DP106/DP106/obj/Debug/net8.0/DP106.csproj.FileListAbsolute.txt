@@ -12,3 +12,4 @@ D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\refint\DP106.dll
 D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.pdb
 D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.genruntimeconfig.cache
 D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\ref\DP106.dll
+D:\ExercisesDenisPanjuta\DP106\DP106\obj\Debug\net8.0\DP106.sourcelink.json
